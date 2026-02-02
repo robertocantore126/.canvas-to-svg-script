@@ -1,4 +1,4 @@
-Obsidian Canvas to SVG Converter
+# Obsidian Canvas to SVG Converter
 Convert your Obsidian Canvas files to beautiful, self-contained SVG images. Perfect for sharing your visual thinking, embedding in documentation, or archiving your canvas work.
 🎯 Features
 
