@@ -13,8 +13,8 @@ Convert your Obsidian Canvas files to beautiful, self-contained SVG images. Perf
 bash# Basic conversion
 python canvas_to_svg.py my_canvas.canvas
 
-# With custom output
+
 python canvas_to_svg.py input.canvas output.svg
 
-# Specify vault path for image resolution
+Specify vault path for image resolution:
 python canvas_to_svg.py canvas.canvas output.svg /path/to/vault
